@@ -1,0 +1,31 @@
+{
+  "pilotName": "张三",
+  "airline": "XX航空",
+  "aircraft": "B737",
+  "serverPort": 5101,
+  "imageSource": "docker.m.daocloud.io/python:3.11-slim",
+  "nasDataPath": "/home/username/hermes/flight-dashboard",
+  "statsReal": {
+    "flightHours": {
+      "total": "500h00m",
+      "y2026": "100h00m",
+      "d90": "30h00m",
+      "month": "0h",
+      "d7": "0h"
+    },
+    "experience": {
+      "total": "100h00m",
+      "y2026": "30h00m",
+      "d90": "10h00m",
+      "month": "0h",
+      "d7": "0h"
+    },
+    "landings": {
+      "total": "50次",
+      "y2026": "10次",
+      "d90": "5次",
+      "month": "0次",
+      "d7": "0次"
+    }
+  }
+}
